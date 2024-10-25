@@ -96,4 +96,4 @@ Thank you to the developers of the tools and libraries used in this project:
 
 ---
 
-Feel free to adapt any of the content to better suit your project needs!
+
